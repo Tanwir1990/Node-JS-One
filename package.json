@@ -1,0 +1,30 @@
+{
+  "name": "node-js-tutorial",
+  "version": "1.0.0",
+  "description": "This is Node JS Tutorial 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tanwir1990/Node-JS-One.git"
+  },
+  "keywords": [
+    "Tanwir",
+    "Node",
+    "JS",
+    "Tutorial"
+  ],
+  "author": "Tanwir Ahmad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tanwir1990/Node-JS-One/issues"
+  },
+  "homepage": "https://github.com/Tanwir1990/Node-JS-One#readme",
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "colors": "^1.4.0",
+    "simple-node-logger": "^21.8.12"
+  }
+}
